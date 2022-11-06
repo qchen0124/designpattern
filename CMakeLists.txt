@@ -9,3 +9,5 @@ add_executable(simplefactorypattern simplefactorypattern/OperationAdd.cpp
                                     simplefactorypattern/OperationDiv.cpp
                                     simplefactorypattern/OperationFactory.cpp
                                     simplefactorypattern/main.cpp)
+
+add_executable(decoratorpattern decoratorpattern/main.cpp)
