@@ -6,7 +6,7 @@
 class OperationAdd : public Operation
 {
  public:
-  virtual double operation(double numberA, double numberB) override;
+  virtual double operation(double numberA, double numberB) override { return numberA + numberB; }
 };
 
 
