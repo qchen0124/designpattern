@@ -11,3 +11,5 @@ add_executable(simplefactorypattern simplefactorypattern/OperationAdd.cpp
                                     simplefactorypattern/main.cpp)
 
 add_executable(decoratorpattern decoratorpattern/main.cpp)
+
+add_executable(proxypattern proxypattern/main.cpp)
