@@ -10,3 +10,5 @@ add_executable(factorymethodpattern factorymethodpattern/main.cpp)
 add_executable(decoratorpattern decoratorpattern/main.cpp)
 
 add_executable(proxypattern proxypattern/main.cpp)
+
+add_executable(prototypepattern prototypepattern/main.cpp)
