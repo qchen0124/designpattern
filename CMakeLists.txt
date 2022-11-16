@@ -12,3 +12,5 @@ add_executable(decoratorpattern decoratorpattern/main.cpp)
 add_executable(proxypattern proxypattern/main.cpp)
 
 add_executable(prototypepattern prototypepattern/main.cpp)
+
+add_executable(templatemethodpattern templatemethodpattern/main.cpp)
