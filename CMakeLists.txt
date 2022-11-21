@@ -18,3 +18,5 @@ add_executable(templatemethodpattern templatemethodpattern/main.cpp)
 add_executable(facadepattern facadepattern/main.cpp)
 
 add_executable(builderpattern builderpattern/main.cpp)
+
+add_executable(observerpattern observerpattern/main.cpp)
